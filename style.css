@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:0;
+}
+
+a{
+  text-decoration: none;
+}
+li{
+  list-style-type: none;
+}
+.log{
+  color:black;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+h1{
+  font-size: 32px;
+  font-weight: 800;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 5px;
+  color:brown;
+}
